@@ -1,0 +1,149 @@
+html{
+   background: linear-gradient(to right top, rgb(0, 0, 0), blue); 
+}
+body {
+      
+  background:linear-gradient(to right top, rgb(0, 0, 0), blue); 
+  
+}
+header {
+    background-color: aquamarine;
+    padding: 20px;
+  background: linear-gradient(to right top, red, rgb(0, 0, 0))
+}
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+
+}
+ul {
+  list-style-image: conic-gradient(rgb(60, 252, 1), rgb(54, 54, 181));
+   color: aqua ;
+}
+p {
+    font-size: 24px;
+}
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+header a {
+    color: rgb(255, 255, 255);
+    background-color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+footer {
+    background-color: aquamarine(25, 150, 233);
+    padding: 5px;
+    height: 200px;
+  background: linear-gradient(to right top, red, blue);
+}
+footer p {  
+    padding: 5px;
+    color:aquamarine;
+background:linear-gradient(to right top, rgb(0, 0, 0), blue); 
+  }
+main {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    color: aqua;
+}
+h1{
+     background-color: rgb(40, 6, 233);
+    color: aqua(255, 255, 255);
+     padding-top:0px;
+    padding-right:0px;
+    padding-bottoM:0px;
+    padding-left:210px;
+     background:linear-gradient(red, blue);
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    background:linear-gradient(red, blue);
+    padding: 10px;
+    border-radius: 10px;
+}
+a:hover{
+ background-color:  royalblue;
+ transition: background-color 0,1s linear;
+ box-shadow:3px 5px 10px 0 rgb(25, 163, 255);
+ color: aqua ;
+}
+.image-1{
+    position: relative;
+    top: 0px;
+     height: 200px;
+  width: 300px;
+  border:20px solid;
+  border-image: linear-gradient(45deg, rgb(127, 6, 225), rgb(12, 246, 156))25;  
+}
+.image-2{
+    position: relative;
+    top: 0px;
+    right: -10px;
+     height: 200px;
+  width: 300px;
+  border:20px solid;
+  border-image: linear-gradient(45deg, rgb(127, 6, 225), rgb(12, 246, 156)) 25;
+}
+.image-3{
+    position: relative;
+    top: 0px;
+    right: -20px;
+    height: 200px; 
+      width: 300px;
+  border:20px solid;
+  border-image: linear-gradient(45deg, rgb(127, 6, 225), rgb(12, 246, 156)) 25;
+
+}
+select a{
+   background-color:  royalblue;
+   
+}
+
+
+
+a {
+    color: mediumblue;
+    text-decoration: none;
+    border-bottom: 1px dotted navy;
+   
+}
+
+.ad {
+    background: blue;
+    float: right;
+    width: 350px;
+    margin-top: 90px;
+    padding: 10px;
+    border: 5px dotted navy;
+     border-image: linear-gradient(45deg, rgb(127, 6, 225), rgb(12, 246, 156)) 100;
+     color: aquamarine;
+}
+.ad:hover{ 
+ transform: scale(1.5) ;
+  background: linear-gradient(to right top, red, blue);
+transition: 1s ease-in;
+ padding: 25px;
+}
+select{
+
+}
